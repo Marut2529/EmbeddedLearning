@@ -2,7 +2,7 @@
 ============================================================
 File:grade.c
 Author:Marut Chanda
-Description:if else..if
+Description:Determine student grade using if-else..if
 Created: Aug 2026
 ============================================================
 */
