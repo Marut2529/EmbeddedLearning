@@ -1,4 +1,11 @@
-//Assignment2
+/*
+============================================================
+File:login.c
+Author:Marut Chanda
+Description:Learn how to use operator
+Created: Aug 2026
+============================================================
+*/
 #include<stdio.h>
 int main(void)
 {
