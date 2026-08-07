@@ -1,3 +1,11 @@
+/*
+============================================================
+File:student.c
+Author:Marut Chanda
+Description:Learn about variables
+Created: Aug 2026
+============================================================
+*/
 #include<stdio.h>
 #include<stdbool.h>
 int main()
@@ -15,9 +23,7 @@ printf("Weight:%.2f\n",weight);
 printf("Grade:%c\n",grade);
 printf("Pass=%d\n",pass);
 
-
 }
-
 
 
 
