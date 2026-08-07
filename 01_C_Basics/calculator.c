@@ -1,3 +1,11 @@
+/*
+============================================================
+File:calculator.c
+Author:Marut Chanda
+Description:learn how to use Operator.
+Created: Aug 2026
+============================================================
+*/
 #include<stdio.h>
 int main()
 {
