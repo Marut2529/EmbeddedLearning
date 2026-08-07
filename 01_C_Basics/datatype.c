@@ -1,3 +1,12 @@
+/*
+============================================================
+File:datatype.c
+Author:Marut Chanda
+Description:learn about datatype.
+Created: Aug 2026
+============================================================
+*/
+
 #include<stdio.h>
 #include<stdbool.h>
 int main()
