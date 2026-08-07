@@ -1,4 +1,11 @@
-//if,else if,else
+/*
+============================================================
+File:grade.c
+Author:Marut Chanda
+Description:if else..if
+Created: Aug 2026
+============================================================
+*/
 #include<stdio.h>
 int main(void){
 int score = 59;
