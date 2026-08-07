@@ -1,4 +1,11 @@
-//Assignment4
+/*
+============================================================
+File:Vending_mechine.c
+Author:Marut Chanda
+Description:Learn about use Logical Operator
+Created: Aug 2026
+============================================================
+*/
 #include<stdio.h>
 int main(void)
 {
