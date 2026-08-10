@@ -7,6 +7,8 @@ this folder contains beginner C programming exercises.
 -Operators
 -IF Else
 -Switch Case
+-While Loop
+-For Loop
 ## Files
 |File      | Description    |
 |----------|------------------|
@@ -19,3 +21,10 @@ this folder contains beginner C programming exercises.
 |day_of_week.c| Day Selector|
 |remote_control.c| TV Remote|
 |uart_command.c | UART Command Parser|
+|while_loop.c | While Loop |
+|for_loop.c | For Loop |
+|countdown.c | Countdown |
+| even.c | Even Numbers|
+|odd.c | Odd Numbers |
+|led_blink.c | LED Blink Simulation |
+|sensor_monitor.c | Sensor Monitor |
