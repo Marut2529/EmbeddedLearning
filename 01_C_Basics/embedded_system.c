@@ -2,7 +2,7 @@
 ============================================================
 File:embedded_system.c
 Author:Marut Chanda
-Description:learn how to use function.
+Description:check status of battery,control fan speed based on temperature.
 Created: Aug 2026
 ============================================================
 */
