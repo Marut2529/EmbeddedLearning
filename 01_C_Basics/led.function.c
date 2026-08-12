@@ -2,7 +2,7 @@
 ============================================================
 File:led_function.c
 Author:Marut Chanda
-Description:learn how to use function.
+Description:Turn LED ON and OFF.
 Created: Aug 2026
 ============================================================
 */
