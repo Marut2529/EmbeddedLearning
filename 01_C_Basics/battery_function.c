@@ -2,7 +2,7 @@
 ============================================================
 File:battery_function.c
 Author:Marut Chanda
-Description:learn how to use function.
+Description:Check status of battery.
 Created: Aug 2026
 ============================================================
 */
