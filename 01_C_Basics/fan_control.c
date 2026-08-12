@@ -2,7 +2,7 @@
 ============================================================
 File:fan_control.c
 Author:Marut Chanda
-Description:learn how to use logical operator.
+Description:Controls fan speed based on temperature
 Created: Aug 2026
 ============================================================
 */
@@ -10,7 +10,7 @@ Created: Aug 2026
 int main(void)
 {
 int temp=80;
-if(temp<40)
+if(temp<40) // Turn fan Off when temperature is below 40 C
 {
     printf("Fan OFF\n");
 }
