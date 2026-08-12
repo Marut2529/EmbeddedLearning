@@ -2,7 +2,7 @@
 ============================================================
 File:motor_control.c
 Author:Marut Chanda
-Description:learn how to use function.
+Description:Controls speed Motor.
 Created: Aug 2026
 ============================================================
 */
