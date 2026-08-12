@@ -9,6 +9,11 @@ this folder contains beginner C programming exercises.
 -Switch Case
 -While Loop
 -For Loop
+-Basic Functions
+-Function Parameters
+-Return Values
+-Sensor Function
+-Control Functions
 ## Files
 |File      | Description    |
 |----------|------------------|
@@ -28,3 +33,13 @@ this folder contains beginner C programming exercises.
 |odd.c | Odd Numbers |
 |led_blink.c | LED Blink Simulation |
 |sensor_monitor.c | Sensor Monitor |
+|function_basic.c| Basic Function|
+|function_parameter.c | Function Parameters|
+|function_return.c | Return Values |
+temperature.c| Temperature Sensor Function|
+|fan_function.c| Fan Control Function|
+|led_function.c | LED Control |
+|battery_function.c | Battery Status|
+|temperature_sensor.c | Sensor Simulation|
+|motor_controller.c | Motor Control |
+|embedded_system.c| Multiple Embedded Function|
