@@ -2,7 +2,7 @@
 ============================================================
 File:temperature_sensor.c
 Author:Marut Chanda
-Description:learn how to use function.
+Description:Read temperature from Temperature Sensor.
 Created: Aug 2026
 ============================================================
 */
