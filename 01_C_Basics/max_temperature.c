@@ -1,16 +1,16 @@
 
 /*
 ============================================================
-File:find_Max_Temperature.c
+File:max_temperature.c
 Author:Marut Chanda
-Description:Basic Array Example
+Description:find maximum temperature from sensor array.
 Created: Aug 2026
 ============================================================
 */
 #include<stdio.h>
 int main()
 {
-    int temp[]={22,24,23,25,27,29,28,26,24,23};
+    int temp[10]={22,24,23,25,27,29,28,26,24,23};
     int max=temp[0];
     
     for(int i=1;i<10;i++)
