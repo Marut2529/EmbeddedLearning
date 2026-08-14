@@ -15,6 +15,5 @@ int*ptr=&value;
 printf("Value = %d\n",value);
 printf("Value through pointer = %d\n",*ptr);
 printf("Address =%p\n",(void*)&value);
-
-
+return 0;
 }
