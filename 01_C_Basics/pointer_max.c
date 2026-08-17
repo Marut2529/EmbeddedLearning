@@ -25,7 +25,7 @@ void find_max(int temp[], int size, int *max)
 int main()
 {
  int temp[5]={22,29,25,31,27};
- int *max;
+ int max;
  find_max(temp, 5,&max);
 printf("Maximum = %d C\n", max);
 return 0;
