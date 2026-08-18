@@ -3,7 +3,7 @@
 ============================================================
 File:sensor_struct.c
 Author:Marut Chanda
-Description:Find Max, Min and average of temperature.
+Description:Store and display temperature amd humidity using struct.
 Created: Aug 2026
 ============================================================
 */
