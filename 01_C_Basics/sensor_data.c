@@ -33,7 +33,6 @@ void find_min(int temp[], int size, int *min)
 void calculate_average(int temp[],int size, float *average)
 {
     int sum=0;
-    float *averate;
     for(int i=0;i<size;i++)
     {
         sum=temp[i]+sum;
