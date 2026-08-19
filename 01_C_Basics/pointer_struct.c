@@ -23,7 +23,7 @@ sensor1.humidity =60;
 struct Sensor *ptr=&sensor1;
 
 printf("Temperature =%d C\n",ptr->temperature);
-printf("Hunidity = %d %%\n",ptr->humidity);
+printf("Humidity = %d %%\n",ptr->humidity);
 return 0;
 
 }
