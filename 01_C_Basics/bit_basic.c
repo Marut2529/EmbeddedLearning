@@ -15,5 +15,6 @@ int main()
 
     unsigned char result= a & b;
     printf("Result =%d\n",result);
+    return 0;
 
 }
