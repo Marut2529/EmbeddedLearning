@@ -27,7 +27,7 @@ else
     printf(" Bit 3 is OFF\n");
 }
     GPIO &=~(1<<3); //00101000
-    printf("After Cleat Bit 3 = %d\n ",GPIO); //00100000
+    printf("After Clear Bit 3 = %d\n ",GPIO); //00100000
 
     GPIO ^=(1<<5); //00100000
     printf("After Toggle Bit 5 = %d\n ",GPIO);
