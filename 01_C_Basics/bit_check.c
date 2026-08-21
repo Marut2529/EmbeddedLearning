@@ -12,7 +12,7 @@ int main()
   unsigned char reg = 8; //00001000
     if(reg & (1<<3)) //00001000
     {
-        printf("Bit is On\n");
+        printf("Bit 3 is On\n");
     }
 else
 {
